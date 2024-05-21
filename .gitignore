@@ -1,0 +1,15 @@
+
+*.xml
+*.iml
+*.bak
+*.log
+*.groovy-e-e
+*.groovy-e-e-e
+*.groovy
+*.groovy-e
+*.test_file
+*.tmp
+.DS_Store
+lab-2/.DS_Store
+lab-2/cat-2/.DS_Store
+lab-3/access_log
